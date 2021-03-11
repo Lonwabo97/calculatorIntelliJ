@@ -1,5 +1,9 @@
 package za.ac.cput.calculatorIntelliJ;
 
+/**
+ * @author Lonwabo
+ */
+
 public class Division {
 
     /**
